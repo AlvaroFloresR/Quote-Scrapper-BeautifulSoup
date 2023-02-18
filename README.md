@@ -1,7 +1,17 @@
 # Quote Scrapper BeautifulSoup
 Quote scrapper from "http://quotes.toscrape.com/" using BeautifulSoup
 
+## Highlights
+- Extracts quotes and tags from a "scrapper-allower" website
+- Saves output in `quotes.txt` file
 
+## How to run
+1. Clone Repo
+2. Run `bs_spider.py` (libraries should be installed accordingly)
+
+## Libraries
+- BeautifulSoup
+- requests
 
 ## Demo Images
 
